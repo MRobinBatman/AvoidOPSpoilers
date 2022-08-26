@@ -1,5 +1,8 @@
 <h1 align="center">
-AvoidOPSpoilers
+<img src= "https://static.wikia.nocookie.net/onepiece/images/6/64/Artificial_Devil_Fruit_Infobox.png/revision/latest?cb=20141206075745" />
+
+  
+  AvoidOPSpoilers
 </h1>
 <h2 align="center">
 A program that was designed to make your life as a fan easier.
