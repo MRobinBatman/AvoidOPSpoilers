@@ -26,13 +26,15 @@ password = Password_here
 - To set up the time period you would like to be unsubscribed for you can start the file called 'Set_unsub_times.exe'. This will allow you to mark on a callendar what day you would like to unsubscribe next, and then when you would like to re-subscribe back to the subreddits you have listed.
 - This is what it should look like:
 
-
-![example1](/images/Example_Photo.png)
+<p align="center">
+  <img src="/images/Example_Photo.png" />
+</p>
 ##
 Usage:
 - To use the program to set the dates you would like to be unsubscribed for, it's pretty simple. You just click the day you would like to unsubscribe, then click to set the beginning of the time period.
-
-![example2](/images/example_photo2.png)
+<p align="center">
+  <img src="/images/example_photo2.png" />
+</p>
 - Then you click the end date, and click to submit.
 - Click To get the timeframe, to make sure your dates are correct.
 - Then click to confirm.
