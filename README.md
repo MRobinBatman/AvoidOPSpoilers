@@ -1,8 +1,10 @@
-# AvoidOPSpoilers 
-<p align="center">
-A program that was designed to make your life as a fan easier if spoilers bother you every week.
-</p>
-This is a simple python script that uses PRAW to unsubscribe from a list of subreddits when the One Piece spoilers come out on on one day, and then resubscribe on later in time so you can still see fan art and be part of the community with out having to fear seeing the spoilers in your feed.
+<h1 align="center">
+AvoidOPSpoilers
+</h1>
+<h2 align="center">
+A program that was designed to make your life as a fan easier.
+</h3>
+This is a simple python script that uses PRAW to unsubscribe from a list of subreddits when the spoilers come out one day, and then resubscribe on later in time. The goal is for you to be able to see fan art and be part of the community with out having to fear seeing the spoilers in your feed during times you are not caught up yet.
 
 
 Setup:
