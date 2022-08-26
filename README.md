@@ -29,12 +29,14 @@ password = Password_here
 <p align="center">
   <img src="/images/Example_Photo.png" />
 </p>
-##
+
 Usage:
+
 - To use the program to set the dates you would like to be unsubscribed for, it's pretty simple. You just click the day you would like to unsubscribe, then click to set the beginning of the time period.
 <p align="center">
   <img src="/images/example_photo2.png" />
 </p>
+
 - Then you click the end date, and click to submit.
 - Click To get the timeframe, to make sure your dates are correct.
 - Then click to confirm.
