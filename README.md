@@ -1,9 +1,10 @@
 # AvoidOnePieceSpoilers
-This is a simple python script that uses PRAW to unsubscribe from a list of subreddits when the One Piece spoilers come out on Tuesday, and then resubscribe on Friday in time for the scans.
+This is a simple python script that uses PRAW to unsubscribe from a list of subreddits when the One Piece spoilers come out on on one day, and then resubscribe on later in time so you can still see fan art and be part of the community with out having to fear seeing the spoilers in your feed.
 
 
 Setup:
-- To get set up, simply move the folder into the directory you would like. 
+- To get set up, simply move the folder into the directory you would like.
+- Next you will need one more file. I tried for hours to upload it via Github LFS to include it to the repository, and I will continue to try to figure that out, but I have everything finished and am sick of dealing with the issue for right now. You can get the last file from here: https://bit.ly/3Any6Fh . It is a file labled 'OnePiece_Spoiler_Blocker.exe'. Drop it in the folder with the other files and confinue from there.
 - Then go in with notepad or any code editor if you have one installed, and enter your user agent information for PRAW into the file labeled 'example_config.ini'. You can get this information directly from your reddit account. You just go to https://www.reddit.com/prefs/apps/ and register your bot.
 - It should look like this:
 ```
