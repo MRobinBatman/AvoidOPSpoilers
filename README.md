@@ -36,3 +36,7 @@ Usage:
 - Then you click the end date, and click to submit.
 - Click To get the timeframe, to make sure your dates are correct.
 - Then click to confirm.
+
+
+Occassional Issues:
+- Error is sometimes caused when you click to confirm the timeframe and then go back to try and change it. If you run into this error, just close the 'Set_unsub_times.exe' file and restart it. It will work fine from there.
